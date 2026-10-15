@@ -1,7 +1,7 @@
 import pygame
 import random
 import sys
-
+#comentario nuevo
 pygame.init()
 pygame.mixer.init()
 
